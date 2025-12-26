@@ -150,8 +150,7 @@
       "publish": true
     },
     "github": {
-      "release": true,
-      "username": "giapdeviscool"
+      "release": true
     },
     "plugins": {
       "@release-it/conventional-changelog": {
